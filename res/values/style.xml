@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Holo.Light.DarkActionBar" parent="android:Theme.Holo.Light"></style>
+    <style name="Widget.Holo.Light.ActionBar.Solid.Inverse" parent="android:Widget.Holo.Light.ActionBar"></style>
+</resources>

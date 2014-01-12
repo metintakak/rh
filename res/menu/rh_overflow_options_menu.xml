@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:orderInCategory="1" id="@+id/action_options"
+          android:title="@string/action_settings"
+           />
+
+    <item android:orderInCategory="2" id="@+id/action_logout"
+          android:title="@string/action_logout"
+          />
+
+</menu>
